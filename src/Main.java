@@ -49,33 +49,11 @@ public class Main {
 //        System.out.println(pizza3.cost());   // Rs 140
 
 
-
-
-
-
-
-
 //        // Factory Pattern
 //
 //        ShapeFactory shapeFactory = new ShapeFactory();
 //        Shape shapeObj = shapeFactory.getShape("circle");
 //        shapeObj.draw();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
