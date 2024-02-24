@@ -1,16 +1,3 @@
-import DecoratorPattern.Base.BasePizza;
-import DecoratorPattern.Base.FarmHouse;
-import DecoratorPattern.Decorator.ExtraCheese;
-import DecoratorPattern.Decorator.ExtraMushroom;
-import FactoryPattern.Shape;
-import FactoryPattern.ShapeFactory;
-import ObserverPattern.Observable.IphoneStockObservable;
-import ObserverPattern.Observable.MacBookStockObservable;
-import ObserverPattern.Observable.StockObservable;
-import ObserverPattern.Observer.EmailAlertObserver;
-import ObserverPattern.Observer.MobileAlertObserver;
-import ObserverPattern.Observer.NotificationAlertObserver;
-
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {

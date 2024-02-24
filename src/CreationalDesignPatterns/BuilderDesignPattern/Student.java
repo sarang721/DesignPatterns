@@ -1,4 +1,4 @@
-package BuilderDesignPattern;
+package CreationalDesignPatterns.BuilderDesignPattern;
 
 import java.util.List;
 
